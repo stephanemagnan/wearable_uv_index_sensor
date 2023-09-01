@@ -41,4 +41,7 @@ The current fritzing diagram uses SMD form factor 0805 for the components.
 
 ## PCB Assembly
 
+## Code
+The CircuitPython code can be uploaded to the M0 Trinket from your choice of IDE. I used [Code with Mu](https://codewith.mu/). Upload the [code](./CircuitPython/uv_sensor_code.py) to your Trinket using the built-in USB port.
+
 ## Use and Maintenance
